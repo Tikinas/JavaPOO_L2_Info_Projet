@@ -25,10 +25,3 @@ Ce projet consiste en un **gestionnaire d’images avec interface graphique**, p
 - **Maven** pour la gestion de projet et compilation  
 
 ---
-
-## 📦 Installation et exécution
-
-1. **Cloner le projet** :
-   ```bash
-   git clone https://github.com/Tikinas/JavaPOO_L2_Info_Projet.git
-   cd JavaPOO_L2_Info_Projet
